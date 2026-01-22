@@ -39,7 +39,7 @@ architecture halfAdder_arch of halfAdder is
 	  
 begin
 	-- this is where you would map ports for any component instantiations, but we don't need them for this
- 
+
 	-- *concurrent* signal assignments
 	o_S    <= i_A xor i_B;
 	o_Cout    <= i_A and i_B;
