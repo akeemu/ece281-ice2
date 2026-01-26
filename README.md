@@ -1,4 +1,5 @@
 # ICE 2: Half-Adder
+Video for ICE 2 demonstration (also uploaded on teams in demo folder): https://usafa0-my.sharepoint.com/:v:/g/personal/c28isaac_kim_afacademy_af_edu/IQCzRXNwXA7JRbVQBFakixPQARQ9XaKGa3MHp5PZa35L3yE?e=s7UlM5
 
 Code for [ECE 281 ICE 2: Half-Adder](https://usafa-ece.github.io/ece281-book/ICE/ICE2.html)
 
